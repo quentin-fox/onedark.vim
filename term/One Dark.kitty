@@ -4,7 +4,7 @@ cursor_text_color        #5c6370
 
 # Special
 foreground               #abb2bf
-background               #282c34
+background               #262626
 selection_foreground     #5c6370
 selection_background     #abb2bf
 
@@ -13,8 +13,8 @@ color0                   #5c6370
 color8                   #4b5263
 
 # Red
-color1                   #e06c75
-color9                   #be5046
+color1                   #be5046
+color9                   #a83841
 
 # Green
 color2                   #98c379
@@ -25,16 +25,16 @@ color3                   #e5c07b
 color11                  #d19a66
 
 # Blue
-color4                   #61afef
-color12                  #61afef
+color4                   #7eb7e6
+color12                  #7eb7e6
 
 # Magenta
-color5                   #c678dd
-color13                  #c678dd
+color5                   #ad82ba
+color13                  #ad82ba
 
 # Cyan
-color6                   #56b6c2
-color14                  #56b6c2
+color6                   #67ab9e
+color14                  #67ab9e
 
 # White
 color7                   #abb2bf
